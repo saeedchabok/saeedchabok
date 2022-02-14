@@ -35,15 +35,11 @@ Here are some ideas to get you started:
 ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saeedchabok&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <br>
-  <br>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedchabok&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
-  <br>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=saeedchabok&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/saeedchabok"> 
-</p>
+
+// <p align="center">
+// <img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedchabok&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+// </p> 
+// <br/> 
+// <p align="center">
+// <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedchabok&theme=react&line_height=27&layout=compact" />
+// <p/>
